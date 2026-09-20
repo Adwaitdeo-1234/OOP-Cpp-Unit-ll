@@ -13,4 +13,9 @@ SY-B.tech D
 3) Public versus private inheritance
 4) multilevel inheritance
 5) hierarchical inheritance
+6) Multiple inheritance
+7) Multiple-inheritance ambiguity
+8) Constructor and destructor order
+9) Parameterized base constructor
+10) Function overriding
 # Brief Description of program:-
