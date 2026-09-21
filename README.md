@@ -18,4 +18,10 @@ SY-B.tech D
 8) Constructor and destructor order
 9) Parameterized base constructor
 10) Function overriding
+11) Abstract class
+12) Virtual base class
+13) Friend class
+14) Nested class
+15) Mini-project: Vehicle rental
+16) Mini-project: Employee payroll
 # Brief Description of program:-
